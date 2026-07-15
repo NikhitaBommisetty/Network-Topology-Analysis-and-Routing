@@ -131,3 +131,7 @@ This project was developed by:
 This project is licensed under the MIT License.
 
 ---
+
+## ⭐ Acknowledgements
+
+This project was developed as part of the **Computer Networks** coursework at **Amrita Vishwa Vidyapeetham**.
